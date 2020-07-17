@@ -7,10 +7,10 @@
 **************************************************************/
 
 /*** Conjur Variables ***/
-$conjurServer = "conjur.cyber-ark-demo.local";
+$conjurServer = "conjur.myorg.local";
 $conjurUser = "host%2Fdev%2Fsrv%2Fnix%2Flinsrv01";
 $apiKey = "  *****  INSERT API KEY HERE  *****";
-$conjurAccount = "CAU";
+$conjurAccount = "myorg";
 $varUser = "Vault01A%2FConjurSync%2FTest-DB-MySQL%2Fcardbapp%2Fusername";
 $varPass = "Vault01A%2FConjurSync%2FTest-DB-MySQL%2Fcardbapp%2Fpassword";
 
